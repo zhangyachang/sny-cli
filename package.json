@@ -1,6 +1,6 @@
 {
   "name": "sny-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sny-cli工具",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "bin": {
     "sny-cli": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangyachang/sny-cli.git"
   },
   "keywords": [],
   "author": "saien",
