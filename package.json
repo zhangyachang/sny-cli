@@ -1,0 +1,24 @@
+{
+  "name": "sny-cli",
+  "version": "1.0.0",
+  "description": "sny-cli工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sny-cli": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "saien",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.1.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.2",
+    "log-symbols": "^4.1.0",
+    "ora": "^5.1.0"
+  }
+}
