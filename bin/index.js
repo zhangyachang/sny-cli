@@ -11,6 +11,8 @@ const logSymbols = require('log-symbols');
 // 弹出版本号
 program.version('1.0.0');
 
+// 测试一个新的版本
+
 // 定义一些模板,这些模板如果可以用api接口请求也许也不错
 const templates = {
   tpl1: {
